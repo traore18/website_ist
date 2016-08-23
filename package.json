@@ -1,0 +1,18 @@
+{
+  "name": "bluezone_project",
+  "version": "1.0.0",
+  "description": "bluezone and blueline web site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design",
+    "css3",
+    "personas",
+    "reservation",
+    "booking"
+  ],
+  "author": "Bah Abdoulaye",
+  "license": "MIT"
+}

@@ -1,0 +1,49 @@
+form {
+	clear:both;
+	/*padding: 3px;*/
+	padding: 10px 20px;
+	width: 800px;
+	background: #f4f7f8;
+	border-radius: 8px;
+}
+
+fieldset {
+	color: black;
+	box-shadow: 3px 3px 0px 2px gray; 
+}
+
+legend {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+}
+
+form label {
+	color: navy;
+	float:inherit;
+	width: 300px;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+
+form input {
+	margin-bottom: 1px;
+	margin-left: 1px;
+	margin-top: 1px;
+}
+
+
+/*
+#submit {
+	padding: 19px 39px 18px 39px;
+  	color: #FFF;
+  	background-color: rgba(0,0,255,0.7);
+  	font-size: 20px;
+  	text-align: center;
+  	font-style: normal;
+  	border-radius: 5px;
+  	width: 100%;
+  	border: 1px solid #3ac162;
+  	border-width: 1px 1px 3px;
+  	box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  	margin-bottom: 10px;
+} */
